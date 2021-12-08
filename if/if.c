@@ -42,7 +42,4 @@ int main(void) {
             printf("正しい番号を入力しろ");
             break;    
     }
-
-        
-
 }
