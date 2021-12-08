@@ -5,7 +5,6 @@
 //プロトタイプ宣言
 int hello();
 int calculation(int num);
-
 int main() {
     hello();
     int number = calculation(10);
