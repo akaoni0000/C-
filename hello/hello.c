@@ -38,7 +38,7 @@ int main(void) {
     //scanf関数
     printf("キーボードに入力しなさい\n");
     int num;
-    scanf("%d", &num);
+    scanf("%d", &num); //&がなくてもできた
     printf("%d\n", num*10); //numに文字列が入っているときは0を返した
 
     printf("キーボードに入力しなさい\n");
